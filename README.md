@@ -1,4 +1,4 @@
-# RealEstate_FinancialAdvisor
+# Real Estate Financial Advisor for First-Time Homebuyers in Hong Kong
 
 ## Introduction
 Navigating the real estate market in Hong Kong, particularly for first-time property buyers, involves understanding a myriad of financial complexities—from mortgages to legal and regulatory compliances. This project aims to simplify and guide young Hong Kong residents through the financial intricacies of buying their first home, helping users make informed decisions.
